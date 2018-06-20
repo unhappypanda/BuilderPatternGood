@@ -1,0 +1,5 @@
+D:\Projects\DesignPatterns\demos\after\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.exe
+D:\Projects\DesignPatterns\demos\after\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.pdb
+D:\Projects\DesignPatterns\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatterns\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.exe
+D:\Projects\DesignPatterns\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.pdb
